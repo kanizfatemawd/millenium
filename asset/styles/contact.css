@@ -1,0 +1,126 @@
+label {
+    color: #1C3879;
+}
+
+input {
+    color: #1C3879;
+}
+
+/*****************************
+ contact-titel************************************************/
+
+.contact-titel {
+    background-image: linear-gradient(to right, #1C3879, #0078AA);
+}
+
+
+
+
+
+.contact-titel h1 {
+    color: #ffff;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+/*****************************
+ contact-titel************************************************/
+
+.apply-gap {
+    background-image: linear-gradient(to right, #1C3879, #0078AA);
+
+}
+
+/***********************************************
+ form*******************************************************/
+.photo-box {
+    border: 2px solid #1C3879;
+    width: 65%;
+    height: 97%;
+    padding-top: 38%;
+    padding-left: 13%;
+}
+
+
+
+.photo-box p {
+    font-size: 18px;
+    color: #1C3879;
+    font-weight: 500;
+}
+
+
+.id-text{
+    font-size: 14px;
+    color: #1C3879;
+    
+}
+
+.personal-text {
+    background-image: linear-gradient(to right, #1C3879, #0078AA);
+}
+
+.personal-text span {
+    color: #ffff;
+    font-size: 16px;
+
+}
+
+
+
+
+.addres-text p {
+    color: #1C3879;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.addres-text span {
+    color: #1C3879;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+
+.brdr-clr {
+    border: 1px solid #1C3879;
+}
+
+.not-focus {
+    border-color: #fff !important;
+}
+
+.license{
+    font-size: 13px;
+    color: #1C3879;
+}
+
+
+
+
+
+/*****************************
+footer************************************************/
+
+
+.footer-head{
+    color: #1C3879;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
